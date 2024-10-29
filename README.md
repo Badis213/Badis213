@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Badis213
 - 👀 I’m interested in : Drawing, Technology
-- 🌱 I’m currently learning : Python, Cybersecurity, AI
+- 🌱 I’m currently learning : Python, C, Cybersecurity, Machine Learning
 
 <!---
 Badis213/Badis213 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
